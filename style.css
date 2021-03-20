@@ -1,0 +1,27 @@
+.header{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px;
+    color: cornsilk;
+    margin: 25px;
+    padding: 30px;
+}
+a:visited{
+    color: ghostwhite;
+}
+.origami{
+    display:flex;
+    flex-wrap:wrap ;
+    justify-content: space-evenly;
+    background-color: purple;
+    color:aqua ;
+    margin: 25px;
+    padding: 30px;
+}
+.intro{
+    background-color: peachpuff;
+    color: royalblue;
+    margin: 25px;
+    padding: 30px;
+}
